@@ -1,13 +1,8 @@
 <!DOCTYPE html>
 <html>
 
-<style>
-* {
-    font-family: 'Roboto';font-size: 22px;
-}
-</style>
 </head>
-<body style="background-color:#313f49;">
+<body style="background-color:#313f49; font-family: 'Roboto';font-size: 22px;">
 
 <img src="logo.png" alt="SafeSCADA">
 <p></p>
