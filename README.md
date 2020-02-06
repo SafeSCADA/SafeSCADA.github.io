@@ -2,7 +2,7 @@
 <html>
 
 <style>
-body {
+* {
     font-family: 'Roboto';font-size: 22px;
 }
 </style>
